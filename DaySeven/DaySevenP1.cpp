@@ -57,7 +57,6 @@ int main(int argc, char** argv) {
             if (v >= (total - 40000000)) p2 = min(p2, v);
         }
         cout << p1 << endl;
-        cout << p2 << endl;
     }
     return 0;
 }
